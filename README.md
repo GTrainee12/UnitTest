@@ -35,3 +35,17 @@
 ![Vehicle](screen/Screenshot_3.jpg)
 ![Vehicle](screen/Screenshot_5.jpg)
 ![Vehicle](screen/Screenshot_4.jpg)
+
+
+Урок 3. Качество тестов
+
+        Напишите тесты, покрывающие на 100% метод evenOddNumber, который проверяет, является ли переданное число четным или нечетным.
+
+
+![Vehicle](screen/Screenshot_6.jpg)
+![Vehicle](screen/Screenshot_7.jpg)
+
+
+        Разработайте и протестируйте метод numberInInterval, который проверяет, попадает ли переданное число в интервал (25;100).
+![Vehicle](screen/Screenshot_8.jpg)
+![Vehicle](screen/Screenshot_9.jpg)
